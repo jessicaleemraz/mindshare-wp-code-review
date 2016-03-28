@@ -1,0 +1,26 @@
+#creativeblock {
+clear:both;
+border-bottom: 1px #1d649d solid;
+border: 5px solid #f1f1f1;
+padding: 1%;
+margin: 1%;
+}
+#feaimg img{
+width: 30%;
+float:left;
+padding-right: 2%;
+}
+#featitle {
+font-size: larger;
+font-weight: bold;
+color: #1d649d;
+}
+#featitle a {
+color: #1d649d; 
+}
+#feacontent {
+
+}
+#feacontent a {
+color: #1d649d;
+}
